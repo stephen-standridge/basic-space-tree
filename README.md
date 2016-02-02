@@ -1,2 +1,2 @@
 # basic-space-tree
-Creates an N-array tree with spatial partitioning
+Creates an N-branching tree with spatial partitioning
